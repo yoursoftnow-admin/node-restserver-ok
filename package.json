@@ -13,13 +13,13 @@
         "bcrypt": "^3.0.0",
         "body-parser": "^1.18.2",
         "express": "^4.16.2",
+        "google-auth-library": "^2.0.0",
         "jsonwebtoken": "^8.2.0",
         "mongoose": "^5.0.9",
         "mongoose-unique-validator": "^2.0.0",
-        "underscore": "^1.8.3",
         "node": "8.9.4",
         "npm": "5.6.x",
+        "underscore": "^1.8.3",
         "yarn": "1.4.0"
-
     }
 }
